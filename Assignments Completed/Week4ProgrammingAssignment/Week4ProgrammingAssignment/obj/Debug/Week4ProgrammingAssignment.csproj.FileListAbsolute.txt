@@ -1,0 +1,6 @@
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\bin\Debug\Week4ProgrammingAssignment.exe.config
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\bin\Debug\Week4ProgrammingAssignment.exe
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\bin\Debug\Week4ProgrammingAssignment.pdb
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\obj\Debug\Week4ProgrammingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\obj\Debug\Week4ProgrammingAssignment.exe
+C:\Users\HP User\Documents\Test Automation\Kolade Lessons\Assignments Completed\Week4ProgrammingAssignment\Week4ProgrammingAssignment\obj\Debug\Week4ProgrammingAssignment.pdb
